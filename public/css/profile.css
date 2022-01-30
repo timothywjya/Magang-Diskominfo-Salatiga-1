@@ -1,0 +1,26 @@
+/*Profile*/
+
+.upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+  }
+  
+  .upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+  }
+
+
+  .form-input img {
+   width: 150px;
+    height: 150px;
+    margin-bottom:30px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+  }
+  
