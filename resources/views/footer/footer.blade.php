@@ -19,8 +19,8 @@
             </div>
         </div>
     </div>
-  <!-- End -->
-  <!-- Footer -->
+    <!-- End -->
+    <!-- Footer -->
     <footer class="bg-white">
         <div class="container py-5">
             <div class="row py-4">
@@ -31,8 +31,8 @@
                 <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
                     <h6 class="text-uppercase font-weight-bold mb-4">Menu Utama</h6>
                     <ul class="list-unstyled mb-0">
-                        <li class="mb-2"><a href="{{ route('login') }}"class="text-muted">Masuk</a></li>
-                        <li class="mb-2"><a href="{{ route('register') }}"class="text-muted">Registrasi</a></li>
+                        <li class="mb-2"><a href="{{ route('login') }}" class="text-muted">Masuk</a></li>
+                        <li class="mb-2"><a href="{{ route('register') }}" class="text-muted">Registrasi</a></li>
                         <li class="mb-2"><a href="kontak" class="text-muted">Kontak</a></li>
                     </ul>
                 </div>
@@ -52,12 +52,12 @@
                 </div>
             </div>
         </div>
-    <!-- Copyrights -->
+        <!-- Copyrights -->
         <div class="bg-light py-4">
             <div class="container text-center">
                 <p class="text-muted mb-0 py-2">© 2021 Dinas Komunikasi dan Informatika Salatiga</p>
             </div>
         </div>
     </footer>
-  <!-- End -->
+    <!-- End -->
 </div>
